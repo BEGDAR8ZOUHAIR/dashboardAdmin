@@ -36,6 +36,11 @@ include('./includes/header.php');
                             <label>linkedin </label>
                             <input type="text" class="form-control" name="linkedin">
                         </div>
+
+
+
+
+                        
                         <div class="col-md-6 mb-3">
                             <label>first_name</label>
                             <input type="text" class="form-control" name="first_name">
